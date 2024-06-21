@@ -21,6 +21,7 @@ export default function RootLayout({
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9101987783305090"
         crossOrigin="anonymous"
       ></script>
+
       <body className={inter.className}>{children}</body>
     </html>
   );

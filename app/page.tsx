@@ -10,7 +10,11 @@ export default function Home() {
         <div className="text-5xl font-bold">ARAFAT AHMED</div>
       </div>
 
-      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left"></div>
+      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+        <a href="https://docs.google.com/document/d/1yt9l7-HkumB0FdJ-ozMsErMzo_JRMiG95J2lIqhWshw/edit?usp=sharing">
+          Privacy Policy
+        </a>
+      </div>
     </main>
   );
 }
